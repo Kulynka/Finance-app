@@ -1,0 +1,20 @@
+.formContainer {
+    width: 30%;
+}
+.radioButtonsBlock {
+    display: flex;
+    justify-content: start;
+}
+.currencyChoice {
+    display: flex;
+    justify-content: space-between;
+}
+.currencyResult {
+    display: flex;
+    justify-content: space-between;
+}
+.rateContainer {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
